@@ -211,14 +211,10 @@ flutter run
 
 ---
 
-## 👥 Geliştirici Ekibi
 
-### 🎯 **Proje Yöneticisi**
-- **Metin Alperen UÇAN**
-- **Ozan Ahmet DEDE**
+## 💻 **Geliştiriciler**
 
-### 💻 **Geliştiriciler**
-
+- **Betül KEMANECİ**
 - **Pelin DAĞ** 
 - **Muhammed Nasih AYDIN**
 - **Gül YASEMİN**
@@ -233,9 +229,9 @@ flutter run
 - **Muhammet Salih HASILCIO**
 - **Umut SARAÇ**
 - **Selin ÇALIŞKAN**
-- **Betül KEMANECİ**
 - **Zeki Furkan YILDIZ**
-
+- **Metin Alperen UÇAN**
+- **Ozan Ahmet DEDE**
 ---
 
 <div align="center">
